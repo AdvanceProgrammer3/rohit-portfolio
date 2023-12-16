@@ -15,9 +15,9 @@ function WelcomePage() {
         <p className="font-bold text-2xl">
           Introducing... FULLSTACK ENVORNMENT
         </p>
-        <p className="font-semibold">It's not series of course.</p>
+        <p className="font-semibold">Its not series of course.</p>
         <p className="text-xs font-bold lg:pb-20">
-          It's devoloper community to make easy process🎉
+          Its devoloper community to make easy process🎉
         </p>
 
         <Link href="/course">
